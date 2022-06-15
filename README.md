@@ -1,0 +1,3 @@
+# realtimeobjectdetection
+By using the algorithm and OpenCV we are able to detect the object present on the screen precisely and able to identify the objects individually with the proper location pointing to the object. Different types of objects can be detected and identified with the help of the SSD algorithm. This paper also provides a result that shows the object detection and identification of objects in real-time.
+The real-time object detection is working properly and giving results also accurate. After getting the result we can conclude that our project can identify the real-time objects accurately.
